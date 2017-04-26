@@ -128,6 +128,7 @@ hr.hobby {
 
 .headlinePic {
 	width: 70%;
+	max-width: 1000px;
 	height: 300px;
 	overflow: hidden;
 	margin-left: auto;
