@@ -103,6 +103,11 @@ p.intro {
 	margin-right: 10px;
 }
 
+hr.hobby {
+	width: 75%;
+	height: 4px;
+}
+
 .circular--landscape {
   display: block;
   position: relative;
