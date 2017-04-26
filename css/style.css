@@ -121,6 +121,24 @@ p.intro {
   margin-left: -25px;
 }
 
+.headlinePic {
+	width: 70%;
+	height: 300px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: -50px;
+	border-radius: 25px;
+	border: 1px solid grey;
+	
+}
+
+.headlinePic img{
+	width: 1000px;
+	height: auto;
+	margin-top: -200px;
+	float: right;
+}
 
 .logo-left {
 	

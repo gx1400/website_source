@@ -8,7 +8,7 @@ document.getElementById("sidenav").innerHTML =
 	'<p class="links"><a href="index.html">HOME</a></p>' +
 	'<p class="links"><a href="resume.html">RESUME</a></p>' +
 	'<p class="links"><a href="hobby.html">HOBBY PROJECTS</a></p>' +
-	'<p class="links"><a href="#">ABOUT</a></p>'+
+	'<p class="links"><a href="about.html">ABOUT</a></p>'+
 	'<br><br><br><br><br><br>' +
 	'<div class="sidecontainer">' +
 		'<div class="logo-left">' +
