@@ -14,7 +14,9 @@ html,body {
 
 .sidebar {
 	height:100%;
-	width: 250px;
+	width: 25%;
+	max-width: 250px;
+	min-width: 156px;
 	background-color: black;
 	position:fixed!important;
 	z-index:1;
@@ -29,6 +31,7 @@ html,body {
 	min-height: calc(100% - 35px);
 	min-height: -webkit-calc(100% - 35px);
 	min-height: -moz-calc(100% - 35px);
+	min-width: 400px;
 	overflow: hidden;
 	margin-bottom: 0px;
 	padding-left: 20px;

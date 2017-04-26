@@ -7,7 +7,7 @@ document.getElementById("sidenav").innerHTML =
 	'<h4 class="sidebarheader">Electrical Engineer</h4>' +
 	'<p class="links"><a href="/">HOME</a></p>' +
 	'<p class="links"><a href="resume.html">RESUME</a></p>' +
-	'<p class="links"><a href="hobby.html">HOBBY PROJECTS</a></p>' +
+	'<p class="links"><a href="hobby.html">HOBBIES</a></p>' +
 	'<p class="links"><a href="about.html">ABOUT</a></p>'+
 	'<br><br><br><br><br><br>' +
 	'<div class="sidecontainer">' +
